@@ -3,6 +3,7 @@
 # Guess My Number! - README
 ## Introduction
 "Guess My Number!" is a fun, retro-inspired game built in JavaScript, reminiscent of the classic games from the 80s. The game challenges players to guess a secret number between 1 and 20, with feedback provided after each guess to guide them to the correct number.
+[Live Project](https://shubhankar-guessnumber.netlify.app/)
 
 ## Gameplay
 Players enter their guess into an input field and press "Check!" to submit their guess. The application will respond with hints such as "Too Low!", "Too High!", or "Correct Number!", depending on the player's input. The goal is to guess the number with the least number of attempts, and the game keeps track of the player's score, which starts at 20 and decrements by one with each incorrect guess.
